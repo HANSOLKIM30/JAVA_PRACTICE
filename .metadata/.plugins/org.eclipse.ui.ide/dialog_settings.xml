@@ -75,6 +75,7 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\hanso\OneDrive\바탕 화면\JAVA_PRACTICE"/>
 			<item value="C:\Users\techi\Desktop\Practice_java"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">

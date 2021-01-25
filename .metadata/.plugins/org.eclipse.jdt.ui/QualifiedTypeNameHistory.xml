@@ -1,2 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.Queue"/>
+<fullyQualifiedTypeName name="java.lang.annotation.Target"/>
+<fullyQualifiedTypeName name="java.lang.annotation.ElementType"/>
+<fullyQualifiedTypeName name="java.lang.annotation.RetentionPolicy"/>
+<fullyQualifiedTypeName name="java.lang.annotation.Retention"/>
+<fullyQualifiedTypeName name="java.lang.reflect.Method"/>
+<fullyQualifiedTypeName name="chapter06.Service"/>
+<fullyQualifiedTypeName name="chapter06.PrintAnnotation"/>
+<fullyQualifiedTypeName name="chapter06.MemberService"/>
+<fullyQualifiedTypeName name="chapter06.ShopService"/>
+<fullyQualifiedTypeName name="chapter06.Account"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="chapter07.DmbCellPhone"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="chapter07.Calculator"/>
+<fullyQualifiedTypeName name="chapter07.Computer"/>
+<fullyQualifiedTypeName name="chapter07.SupersonicAirplaneExample"/>
+<fullyQualifiedTypeName name="chapter07.SupersonicAirplane"/>
+<fullyQualifiedTypeName name="java.nio.file.StandardCopyOption"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="chapter07.HankookTire"/>
+<fullyQualifiedTypeName name="chapter07.KumhoTire"/>
+<fullyQualifiedTypeName name="chapter07.Animal"/>
+<fullyQualifiedTypeName name="chapter07.CastingParent"/>
+<fullyQualifiedTypeName name="chapter07.CastingChild"/>
+<fullyQualifiedTypeName name="chapter07.ExampleChildExample"/>
+<fullyQualifiedTypeName name="chapter07.ExampleParent"/>
+<fullyQualifiedTypeName name="chapter07.ExampleChild"/>
+</qualifiedTypeNameHistroy>
