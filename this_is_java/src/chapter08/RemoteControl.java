@@ -2,7 +2,8 @@ package chapter08;
 
 
 public interface RemoteControl {
-	// 상수 필드 선언: 따로 public static final 선언하지 않아도, 컴파일 과정에서 붙게됨.
+	// 상수 필드 선언: 따로 public static final 선언하지 않아도, 컴파일 과정에서 붙게됨. 
+	// → "다형성"을 구현한다는 공통점이 있지만, "상속"과  달리 인터페이스는 추후 구현을 해야하므로, 접근제한자가 public 속성을 가질 수 밖에 없음.
 	public int MAX_VOLUME = 10;
 	public int MIN_VOLUME = 0;
 	
@@ -10,7 +11,7 @@ public interface RemoteControl {
 	// 호출 방법만 기술하면, 해당 메소드는 객체에서 재정의되어 실제로 실행됨.
 	public void turnOn();
 	public void turnOff();
-	public void setVolume(int volum);
+	public void setVolume(int volume);
 	
 	// 디폴트 메소드 선언: 따로 public 선언하지 않아도, 컴파일 과정에서 붙게됨.
 	// 실제로는 구현객체에서 실행되기 때문에, 선언은 인터페이스에서 하지만 구현객체가 지니는 "인스턴트 메소드"라고 생각해도 무방하다.

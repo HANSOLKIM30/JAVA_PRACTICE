@@ -19,7 +19,6 @@
 <fullyQualifiedTypeName name="chapter07.SupersonicAirplaneExample"/>
 <fullyQualifiedTypeName name="chapter07.SupersonicAirplane"/>
 <fullyQualifiedTypeName name="java.nio.file.StandardCopyOption"/>
-<fullyQualifiedTypeName name="java.lang.Override"/>
 <fullyQualifiedTypeName name="chapter07.HankookTire"/>
 <fullyQualifiedTypeName name="chapter07.KumhoTire"/>
 <fullyQualifiedTypeName name="chapter07.Animal"/>
@@ -29,4 +28,28 @@
 <fullyQualifiedTypeName name="chapter07.ExampleParent"/>
 <fullyQualifiedTypeName name="chapter07.ExampleChild"/>
 <fullyQualifiedTypeName name="chapter08.RemoteControl"/>
+<fullyQualifiedTypeName name="chapter08.HankookTire"/>
+<fullyQualifiedTypeName name="chapter08.KumhoTire"/>
+<fullyQualifiedTypeName name="chapter08.Taxi"/>
+<fullyQualifiedTypeName name="chapter08.Bus"/>
+<fullyQualifiedTypeName name="chapter08.Vehicle"/>
+<fullyQualifiedTypeName name="chapter08.InterfaceA"/>
+<fullyQualifiedTypeName name="chapter08.InterfaceB"/>
+<fullyQualifiedTypeName name="chapter08.ImplementationC"/>
+<fullyQualifiedTypeName name="chapter08.InterfaceC"/>
+<fullyQualifiedTypeName name="chapter08.MyClassA"/>
+<fullyQualifiedTypeName name="chapter08.MyInterface"/>
+<fullyQualifiedTypeName name="chapter08.MyClassB"/>
+<fullyQualifiedTypeName name="chapter08.ParentInterface"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="chapter08.Soundable"/>
+<fullyQualifiedTypeName name="chapter08.DataAccessObject"/>
+<fullyQualifiedTypeName name="chapter08.Action"/>
+<fullyQualifiedTypeName name="chapter09.A.B"/>
+<fullyQualifiedTypeName name="chapter09.A2.B"/>
+<fullyQualifiedTypeName name="chapter09.Outter2.Nested"/>
+<fullyQualifiedTypeName name="chapter09.Button.OnClickListener"/>
+<fullyQualifiedTypeName name="chapter09.CallListener"/>
+<fullyQualifiedTypeName name="chapter09.MessageListener"/>
+<fullyQualifiedTypeName name="java.lang.ClassNotFoundException"/>
 </qualifiedTypeNameHistroy>
