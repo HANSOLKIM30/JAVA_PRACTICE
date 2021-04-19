@@ -10,7 +10,7 @@ public class FunctionExample2 {
 			new Student("신용권", 95, 93)
 	);
 	
-	// ToIntFunction(객체 -> int) 인터페이스를 매개변수로 사용
+	// ToIntFunction(Student -> int) 인터페이스를 매개변수로 사용
 	public static double avg(ToIntFunction<Student> function) {
 		int sum = 0;
 		for(Student student : list) {

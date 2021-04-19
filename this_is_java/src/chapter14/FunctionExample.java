@@ -15,7 +15,7 @@ public class FunctionExample {
 	public static void printString(Function<Student, String> function) {
 		for(Student student : list) {	// list에 저장된 수만큼 루핑
 			// 람다식 실행
-			System.out.println(function.apply(student));
+			System.out.println(function.apply(student));	// Student -> String
 		}
 		System.out.println();
 	}
@@ -31,16 +31,17 @@ public class FunctionExample {
 	public static void main(String[] args) {
 				
 		System.out.println("[학생 이름]");
+		// Fuction 인터페이스 function의 익명 구현 객체
 		printString(t -> { 
 				return t.getName();
-			} 
+			} 	
 		);
 		
 		// return 및 중괄호 생략 가능
 		System.out.println("[영어 점수]");
-		printInt(t -> t.getEnglishScore());
+		printInt(t -> t.getEnglishScore());	// ToIntFunction 인터페이스 function의 익명구현객체
 		
 		System.out.println("[수학 점수]");
-		printInt(t -> t.getMathScore());
+		printInt(t -> t.getMathScore());	// ToIntFunction 인터페이스 function의 익명구현객체
 	}
 }
